@@ -1,0 +1,2 @@
+# GitTut
+tutorial about git
