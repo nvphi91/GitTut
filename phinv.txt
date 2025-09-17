@@ -17,3 +17,4 @@ x3
 bas1
 
 base 2
+test base phinv2
